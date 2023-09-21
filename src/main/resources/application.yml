@@ -1,0 +1,11 @@
+server:
+  port: 8123
+  servlet:
+    context-path: /api
+    encoding:
+      charset: UTF-8
+alexg:
+  client:
+    access-key: asdddd
+    secret-key: abc
+
